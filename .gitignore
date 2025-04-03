@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+env/
+*.env
+.DS_Store
+
+images
+data
+learn
+test
+train
